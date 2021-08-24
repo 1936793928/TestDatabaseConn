@@ -1,0 +1,9 @@
+C:\Users\1\source\repos\testconn\testconn\bin\Debug\testconn.exe
+C:\Users\1\source\repos\testconn\testconn\bin\Debug\testconn.pdb
+C:\Users\1\source\repos\testconn\testconn\obj\Debug\testconn.Form1.resources
+C:\Users\1\source\repos\testconn\testconn\obj\Debug\testconn.Properties.Resources.resources
+C:\Users\1\source\repos\testconn\testconn\obj\Debug\testconn.csproj.GenerateResource.cache
+C:\Users\1\source\repos\testconn\testconn\obj\Debug\testconn.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\testconn\testconn\obj\Debug\testconn.exe
+C:\Users\1\source\repos\testconn\testconn\obj\Debug\testconn.pdb
+C:\Users\1\source\repos\testconn\testconn\obj\Debug\testconn.csprojAssemblyReference.cache
